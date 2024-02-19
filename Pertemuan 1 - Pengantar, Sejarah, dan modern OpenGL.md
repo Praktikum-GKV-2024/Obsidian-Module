@@ -9,6 +9,8 @@ Pertemuan ini berisikan pengenalan cara menggambar dengan [[OpenGL]] dengan bant
 OpenGL pertama kali dikembangkan di tahun 1992 sebagai alternatif open source dari graphics API [[IrisGL]] yang bersifat proprietary. 
 
 = to be discussed = #TODO 
+
+# Legacy Pipeline
 # Membuat Window
 
 Hal yang paling dasar dalam membuat aplikasi adalah membuka window. 
@@ -18,13 +20,14 @@ int main(int argc, char* argv[])  {
     glutInit(&argc, argv);
     glutInitWindowSize(640, 480);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-    glutCreateWindow("biru");
-    glutDisplayFunc(Jendela);
+    glutCreateWindow("FreeGLUT");
+    glutDisplayFunc([]());
     glClearColor(0.0f, 0.0f, 1.0f, 1.0f);
     glutMainLoop();
     
     return 0;
 }
 ```
+# Menggambar Primitives
 
 

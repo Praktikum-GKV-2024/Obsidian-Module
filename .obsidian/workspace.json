@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "33e82efb235caded",
+    "type": "split",
+    "children": [
+      {
+        "id": "74573677845c2871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e568b3ed688ee159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference and Pieces/OS Specific/For Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "def444c2169365a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ffd15890a228fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150421846bcf1cb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e078751aced769b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3555a96877fc2f29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7690688639ee66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f7297494eede67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0509c1c36160ae4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference and Pieces/OS Specific/For Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bacc252db9681efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference and Pieces/OS Specific/For Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97631256efc3841a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "019d129f9dd02596",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference and Pieces/OS Specific/For Linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e568b3ed688ee159",
+  "lastOpenFiles": [
+    "Reference and Pieces/OS Specific/For Windows.md",
+    "Reference and Pieces/OS Specific/Testing Development.md",
+    "Reference and Pieces/OS Specific/For MacOS.md",
+    "Reference and Pieces/OS Specific/For Linux.md",
+    "Pertemuan 1 - Pengantar, Sejarah, dan modern OpenGL.md",
+    "Pertemuan 2 - Modern GL.md",
+    "Pertemuan 3.md",
+    "Canvases/Legacy Pipeline.canvas",
+    "Canvases",
+    "Reference and Pieces/MinGW.md",
+    "Pertemuan 6.md"
+  ]
+}
