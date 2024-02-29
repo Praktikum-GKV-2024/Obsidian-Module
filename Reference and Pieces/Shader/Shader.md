@@ -3,3 +3,16 @@ Banyak orang sering mendengar shader di dalam game. Mungkin yang pertama kali ya
 Kenapa [[GPU]]? Karena [[GPU]] memiliki kemampuan untuk menjalankan program secara paralel secara masif. Kita berbicara ribuan prosesor di [[GPU]] vs hanya belasan di [[CPU]] disini.
 
 Shader sangat cocok untuk grafik di mana tiap unit proses yang dilakukan selalu sama sehingga paralelisasi sangat membantu performa. Misalkan kita memproses warna apa yang perlu ditampilkan di layar. Di belakang proses ini akan ada loop untuk memproses setiap pixel yang ada. Proses ini sangat amat repetitif yang membuat [[CPU]] kewalahan dan lahirlah [[GPU]] untuk membantu pekerjaan [[CPU]] ini.
+
+# Pipeline Modern Graphics
+
+CPU kerja --> Draw Call --> Vertex Shader --> Fragment Shader --> Rasterization
+
+### Vertex Shader
+
+
+### Fragment Shader
+
+
+
+Di dalam game modern, shader bisa berubah secara dinamis ketika user mengotak ngatik setting.
