@@ -16,7 +16,7 @@ Setelah itu anda bisa clone repo ini dan melakukan perubahan yang diperlukan unt
 
 # Melakukan pull request
 
-Silahkan buka repositori fork anda. Sekarang repokita sudah terdapat file baru yang kita tambahkan.
+Silahkan buka repositori fork anda. Sekarang repo kita sudah terdapat file baru yang kita tambahkan.
 
 ![[Pasted image 20240229171514.png]]
 

@@ -91,3 +91,6 @@ Dari teori yang kita bahas serta implementasi MVP matrix dari sisi GPU nya, kita
 ## More on Fragment Shader
 
 ### Lighting on Fragment Shader
+
+
+![[Pasted image 20240307024455.png]]
